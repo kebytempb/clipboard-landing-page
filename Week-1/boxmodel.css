@@ -1,0 +1,26 @@
+/* Huddle Landing Page Stylesheet
+    -----------------------------
+    Use this file to implement the layout, colors, and typography 
+    based on the style-guide.md provided in the project folder. 
+
+    The main steps will involve:
+    1. Setting up the body font and background color/image.
+    2. Styling the .container and .header.
+    3. Implementing the flexible layout for the .intro-section (likely using Flexbox or Grid).
+    4. Styling the button (.btn-register).
+    5. Positioning and styling the social icons (.footer).
+*/
+
+:root {
+    /* Define variables based on style-guide.md (e.g., Violet and Magenta) */
+    /* --violet: HSL(...); */
+    /* --soft-magenta: HSL(...); */
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color:violet
+     background-image: url("Wild.jpg")
+}
+
+/* Add your CSS styling below */

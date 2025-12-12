@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Classic Fried Rice and Chicken</title>
+    <!-- Requirement: Link an external CSS file -->
+    <link rel="stylesheet" href="recipe-style.css">
+</head>
+<body>
+
+    <main id="recipe-container">
+
+        <!-- Main Heading -->
+        <h1>The Ultimate Easy Fried Rice and Chicken</h1>
+
+        <!-- Introductory Paragraph -->
+        <p class="intro-paragraph">
+            This classic, savory Fried Rice and Chicken recipe is a foundational dish in many households, known for its incredible flavor and versatility. It's a perfect weeknight meal that turns leftover rice into a vibrant, satisfying feast. The key to success is using **day-old rice** and cooking everything quickly over high heat to achieve that signature "wok hei," or smoky flavor.
+        </p>
+
+        <!-- Image relevant to the recipe -->
+        <div class="recipe-image-container">
+            <img 
+                src="https://placehold.co/800x400/22c55e/ffffff?text=Delicious+Fried+Rice+and+Chicken" 
+                alt="A plate of freshly made, steaming fried rice topped with sliced chicken and green onions." 
+                class="recipe-image"
+                onerror="this.onerror=null; this.src='https://placehold.co/800x400/22c55e/ffffff?text=Fried+Rice+and+Chicken+Placeholder';"
+            >
+        </div>
+
+        <!-- Ingredients Section -->
+        <section class="ingredients-section">
+            <h2>Ingredients & Materials Needed</h2>
+            <!-- Unordered List of Ingredients -->
+            <ul class="ingredient-list">
+                <li>1.5 cups cooked white rice (ideally day-old)</li>
+                <li>1 lb boneless, skinless chicken breast or thighs, cubed</li>
+                <li>2 tbsp Soy Sauce (plus extra for seasoning)</li>
+                <li>1 tbsp Oyster Sauce (optional, but recommended)</li>
+                <li>1 tsp Sesame Oil</li>
+                <li>2 tbsp Vegetable Oil (for frying)</li>
+                <li>2 cloves Garlic, minced</li>
+                <li>1/2 cup diced Onion</li>
+                <li>1/2 cup frozen Peas and Carrots mix</li>
+                <li>2 large Eggs, lightly beaten</li>
+                <li>Salt and White Pepper to taste</li>
+                <li>A large Wok or large frying pan</li>
+            </ul>
+        </section>
+
+        <!-- Instructions Section -->
+        <section class="instructions-section">
+            <h2>Instructions</h2>
+            <!-- Ordered List of Steps -->
+            <ol class="instruction-steps">
+                <li>
+                    **Prepare the Chicken:** In a bowl, toss the cubed chicken with 1 tbsp Soy Sauce, Oyster Sauce, and a pinch of white pepper. Set aside for 5 minutes.
+                </li>
+                <li>
+                    **Cook the Chicken:** Heat 1 tbsp of oil in the wok over high heat. Add the chicken and stir-fry until fully cooked and lightly browned. Remove the chicken from the wok and set aside.
+                </li>
+                <li>
+                    **Scramble the Eggs:** Add a little more oil to the wok. Pour in the beaten eggs and quickly scramble them until set. Push the eggs to one side of the wok.
+                </li>
+                <li>
+                    **Sauté Aromatics:** Add the remaining oil to the empty side of the wok. Add the minced garlic and diced onion, and stir-fry for about 30 seconds until fragrant.
+                </li>
+                <li>
+                    **Add the Rice:** Add the day-old rice to the wok. Use a spatula to break up any clumps. Stir-fry rapidly for 2-3 minutes to heat the rice and lightly toast the grains.
+                </li>
+                <li>
+                    **Incorporate Vegetables:** Add the frozen peas and carrots mix. Continue stir-frying until the vegetables are tender-crisp.
+                </li>
+                <li>
+                    **Combine and Season:** Return the cooked chicken and scrambled eggs to the wok. Add the remaining 1 tbsp of Soy Sauce and the Sesame Oil. Stir everything together quickly to evenly coat the ingredients.
+                </li>
+                <li>
+                    **Final Adjustment:** Taste the rice and add salt and white pepper as needed. Serve immediately while hot!
+                </li>
+            </ol>
+        </section>
+
+    </main>
+
+</body>
+</html>
